@@ -1,0 +1,501 @@
+data_array_size:1000
+ InPlaceInsertion: 10
+ InPlaceSeletion: 7
+ InPlaceHeap: 1
+
+data_array_size:2000
+ InPlaceInsertion: 25
+ InPlaceSeletion: 45
+ InPlaceHeap: 2
+
+data_array_size:3000
+ InPlaceInsertion: 9
+ InPlaceSeletion: 4
+ InPlaceHeap: 5
+
+data_array_size:4000
+ InPlaceInsertion: 10
+ InPlaceSeletion: 7
+ InPlaceHeap: 1
+
+data_array_size:5000
+ InPlaceInsertion: 14
+ InPlaceSeletion: 11
+ InPlaceHeap: 1
+
+data_array_size:6000
+ InPlaceInsertion: 20
+ InPlaceSeletion: 16
+ InPlaceHeap: 1
+
+data_array_size:7000
+ InPlaceInsertion: 28
+ InPlaceSeletion: 20
+ InPlaceHeap: 1
+
+data_array_size:8000
+ InPlaceInsertion: 28
+ InPlaceSeletion: 27
+ InPlaceHeap: 1
+
+data_array_size:9000
+ InPlaceInsertion: 34
+ InPlaceSeletion: 34
+ InPlaceHeap: 1
+
+data_array_size:10000
+ InPlaceInsertion: 43
+ InPlaceSeletion: 41
+ InPlaceHeap: 2
+
+data_array_size:11000
+ InPlaceInsertion: 62
+ InPlaceSeletion: 55
+ InPlaceHeap: 2
+
+data_array_size:12000
+ InPlaceInsertion: 62
+ InPlaceSeletion: 61
+ InPlaceHeap: 3
+
+data_array_size:13000
+ InPlaceInsertion: 73
+ InPlaceSeletion: 71
+ InPlaceHeap: 2
+
+data_array_size:14000
+ InPlaceInsertion: 95
+ InPlaceSeletion: 84
+ InPlaceHeap: 3
+
+data_array_size:15000
+ InPlaceInsertion: 96
+ InPlaceSeletion: 89
+ InPlaceHeap: 2
+
+data_array_size:16000
+ InPlaceInsertion: 103
+ InPlaceSeletion: 102
+ InPlaceHeap: 2
+
+data_array_size:17000
+ InPlaceInsertion: 127
+ InPlaceSeletion: 127
+ InPlaceHeap: 2
+
+data_array_size:18000
+ InPlaceInsertion: 139
+ InPlaceSeletion: 135
+ InPlaceHeap: 4
+
+data_array_size:19000
+ InPlaceInsertion: 152
+ InPlaceSeletion: 144
+ InPlaceHeap: 3
+
+data_array_size:20000
+ InPlaceInsertion: 165
+ InPlaceSeletion: 169
+ InPlaceHeap: 3
+
+data_array_size:21000
+ InPlaceInsertion: 181
+ InPlaceSeletion: 178
+ InPlaceHeap: 3
+
+data_array_size:22000
+ InPlaceInsertion: 206
+ InPlaceSeletion: 206
+ InPlaceHeap: 3
+
+data_array_size:23000
+ InPlaceInsertion: 220
+ InPlaceSeletion: 210
+ InPlaceHeap: 3
+
+data_array_size:24000
+ InPlaceInsertion: 237
+ InPlaceSeletion: 232
+ InPlaceHeap: 3
+
+data_array_size:25000
+ InPlaceInsertion: 257
+ InPlaceSeletion: 248
+ InPlaceHeap: 4
+
+data_array_size:26000
+ InPlaceInsertion: 281
+ InPlaceSeletion: 265
+ InPlaceHeap: 4
+
+data_array_size:27000
+ InPlaceInsertion: 297
+ InPlaceSeletion: 291
+ InPlaceHeap: 4
+
+data_array_size:28000
+ InPlaceInsertion: 322
+ InPlaceSeletion: 310
+ InPlaceHeap: 4
+
+data_array_size:29000
+ InPlaceInsertion: 347
+ InPlaceSeletion: 339
+ InPlaceHeap: 4
+
+data_array_size:30000
+ InPlaceInsertion: 386
+ InPlaceSeletion: 362
+ InPlaceHeap: 5
+
+data_array_size:31000
+ InPlaceInsertion: 401
+ InPlaceSeletion: 393
+ InPlaceHeap: 5
+
+data_array_size:32000
+ InPlaceInsertion: 427
+ InPlaceSeletion: 419
+ InPlaceHeap: 4
+
+data_array_size:33000
+ InPlaceInsertion: 455
+ InPlaceSeletion: 551
+ InPlaceHeap: 5
+
+data_array_size:34000
+ InPlaceInsertion: 603
+ InPlaceSeletion: 536
+ InPlaceHeap: 5
+
+data_array_size:35000
+ InPlaceInsertion: 546
+ InPlaceSeletion: 513
+ InPlaceHeap: 5
+
+data_array_size:36000
+ InPlaceInsertion: 561
+ InPlaceSeletion: 577
+ InPlaceHeap: 6
+
+data_array_size:37000
+ InPlaceInsertion: 664
+ InPlaceSeletion: 604
+ InPlaceHeap: 6
+
+data_array_size:38000
+ InPlaceInsertion: 692
+ InPlaceSeletion: 624
+ InPlaceHeap: 6
+
+data_array_size:39000
+ InPlaceInsertion: 694
+ InPlaceSeletion: 660
+ InPlaceHeap: 6
+
+data_array_size:40000
+ InPlaceInsertion: 757
+ InPlaceSeletion: 780
+ InPlaceHeap: 6
+
+data_array_size:41000
+ InPlaceInsertion: 956
+ InPlaceSeletion: 770
+ InPlaceHeap: 6
+
+data_array_size:42000
+ InPlaceInsertion: 890
+ InPlaceSeletion: 820
+ InPlaceHeap: 7
+
+data_array_size:43000
+ InPlaceInsertion: 888
+ InPlaceSeletion: 789
+ InPlaceHeap: 7
+
+data_array_size:44000
+ InPlaceInsertion: 932
+ InPlaceSeletion: 830
+ InPlaceHeap: 9
+
+data_array_size:45000
+ InPlaceInsertion: 1040
+ InPlaceSeletion: 921
+ InPlaceHeap: 8
+
+data_array_size:46000
+ InPlaceInsertion: 1021
+ InPlaceSeletion: 930
+ InPlaceHeap: 8
+
+data_array_size:47000
+ InPlaceInsertion: 1133
+ InPlaceSeletion: 1025
+ InPlaceHeap: 8
+
+data_array_size:48000
+ InPlaceInsertion: 1557
+ InPlaceSeletion: 1097
+ InPlaceHeap: 8
+
+data_array_size:49000
+ InPlaceInsertion: 1271
+ InPlaceSeletion: 1107
+ InPlaceHeap: 8
+
+data_array_size:50000
+ InPlaceInsertion: 1662
+ InPlaceSeletion: 1523
+ InPlaceHeap: 8
+
+data_array_size:51000
+ InPlaceInsertion: 1462
+ InPlaceSeletion: 1564
+ InPlaceHeap: 13
+
+data_array_size:52000
+ InPlaceInsertion: 1676
+ InPlaceSeletion: 1551
+ InPlaceHeap: 12
+
+data_array_size:53000
+ InPlaceInsertion: 1644
+ InPlaceSeletion: 1412
+ InPlaceHeap: 9
+
+data_array_size:54000
+ InPlaceInsertion: 1526
+ InPlaceSeletion: 1581
+ InPlaceHeap: 9
+
+data_array_size:55000
+ InPlaceInsertion: 1536
+ InPlaceSeletion: 1477
+ InPlaceHeap: 10
+
+data_array_size:56000
+ InPlaceInsertion: 1906
+ InPlaceSeletion: 1905
+ InPlaceHeap: 11
+
+data_array_size:57000
+ InPlaceInsertion: 2373
+ InPlaceSeletion: 2098
+ InPlaceHeap: 12
+
+data_array_size:58000
+ InPlaceInsertion: 2483
+ InPlaceSeletion: 1600
+ InPlaceHeap: 12
+
+data_array_size:59000
+ InPlaceInsertion: 1759
+ InPlaceSeletion: 1677
+ InPlaceHeap: 10
+
+data_array_size:60000
+ InPlaceInsertion: 1891
+ InPlaceSeletion: 1727
+ InPlaceHeap: 12
+
+data_array_size:61000
+ InPlaceInsertion: 1918
+ InPlaceSeletion: 1768
+ InPlaceHeap: 10
+
+data_array_size:62000
+ InPlaceInsertion: 2032
+ InPlaceSeletion: 2089
+ InPlaceHeap: 15
+
+data_array_size:63000
+ InPlaceInsertion: 2125
+ InPlaceSeletion: 1784
+ InPlaceHeap: 12
+
+data_array_size:64000
+ InPlaceInsertion: 2043
+ InPlaceSeletion: 2024
+ InPlaceHeap: 11
+
+data_array_size:65000
+ InPlaceInsertion: 2382
+ InPlaceSeletion: 1967
+ InPlaceHeap: 10
+
+data_array_size:66000
+ InPlaceInsertion: 2215
+ InPlaceSeletion: 1923
+ InPlaceHeap: 13
+
+data_array_size:67000
+ InPlaceInsertion: 2352
+ InPlaceSeletion: 1972
+ InPlaceHeap: 11
+
+data_array_size:68000
+ InPlaceInsertion: 2351
+ InPlaceSeletion: 2185
+ InPlaceHeap: 12
+
+data_array_size:69000
+ InPlaceInsertion: 2535
+ InPlaceSeletion: 2151
+ InPlaceHeap: 13
+
+data_array_size:70000
+ InPlaceInsertion: 2986
+ InPlaceSeletion: 2746
+ InPlaceHeap: 13
+
+data_array_size:71000
+ InPlaceInsertion: 3019
+ InPlaceSeletion: 2833
+ InPlaceHeap: 13
+
+data_array_size:72000
+ InPlaceInsertion: 2992
+ InPlaceSeletion: 2568
+ InPlaceHeap: 14
+
+data_array_size:73000
+ InPlaceInsertion: 3081
+ InPlaceSeletion: 2679
+ InPlaceHeap: 12
+
+data_array_size:74000
+ InPlaceInsertion: 2950
+ InPlaceSeletion: 2744
+ InPlaceHeap: 12
+
+data_array_size:75000
+ InPlaceInsertion: 3275
+ InPlaceSeletion: 2979
+ InPlaceHeap: 20
+
+data_array_size:76000
+ InPlaceInsertion: 3180
+ InPlaceSeletion: 2640
+ InPlaceHeap: 13
+
+data_array_size:77000
+ InPlaceInsertion: 3339
+ InPlaceSeletion: 3302
+ InPlaceHeap: 23
+
+data_array_size:78000
+ InPlaceInsertion: 4148
+ InPlaceSeletion: 3855
+ InPlaceHeap: 20
+
+data_array_size:79000
+ InPlaceInsertion: 4874
+ InPlaceSeletion: 3669
+ InPlaceHeap: 14
+
+data_array_size:80000
+ InPlaceInsertion: 4359
+ InPlaceSeletion: 3879
+ InPlaceHeap: 15
+
+data_array_size:81000
+ InPlaceInsertion: 4297
+ InPlaceSeletion: 3591
+ InPlaceHeap: 22
+
+data_array_size:82000
+ InPlaceInsertion: 4647
+ InPlaceSeletion: 3563
+ InPlaceHeap: 17
+
+data_array_size:83000
+ InPlaceInsertion: 4868
+ InPlaceSeletion: 4290
+ InPlaceHeap: 19
+
+data_array_size:84000
+ InPlaceInsertion: 4952
+ InPlaceSeletion: 4173
+ InPlaceHeap: 18
+
+data_array_size:85000
+ InPlaceInsertion: 5658
+ InPlaceSeletion: 4593
+ InPlaceHeap: 20
+
+data_array_size:86000
+ InPlaceInsertion: 5714
+ InPlaceSeletion: 4477
+ InPlaceHeap: 17
+
+data_array_size:87000
+ InPlaceInsertion: 5400
+ InPlaceSeletion: 4034
+ InPlaceHeap: 15
+
+data_array_size:88000
+ InPlaceInsertion: 5376
+ InPlaceSeletion: 4790
+ InPlaceHeap: 21
+
+data_array_size:89000
+ InPlaceInsertion: 5875
+ InPlaceSeletion: 4880
+ InPlaceHeap: 17
+
+data_array_size:90000
+ InPlaceInsertion: 5458
+ InPlaceSeletion: 5003
+ InPlaceHeap: 21
+
+data_array_size:91000
+ InPlaceInsertion: 5709
+ InPlaceSeletion: 4369
+ InPlaceHeap: 21
+
+data_array_size:92000
+ InPlaceInsertion: 4956
+ InPlaceSeletion: 4744
+ InPlaceHeap: 19
+
+data_array_size:93000
+ InPlaceInsertion: 5763
+ InPlaceSeletion: 4897
+ InPlaceHeap: 18
+
+data_array_size:94000
+ InPlaceInsertion: 5983
+ InPlaceSeletion: 4945
+ InPlaceHeap: 19
+
+data_array_size:95000
+ InPlaceInsertion: 5883
+ InPlaceSeletion: 5032
+ InPlaceHeap: 29
+
+data_array_size:96000
+ InPlaceInsertion: 7361
+ InPlaceSeletion: 5541
+ InPlaceHeap: 20
+
+data_array_size:97000
+ InPlaceInsertion: 5885
+ InPlaceSeletion: 4849
+ InPlaceHeap: 20
+
+data_array_size:98000
+ InPlaceInsertion: 6238
+ InPlaceSeletion: 5588
+ InPlaceHeap: 18
+
+data_array_size:99000
+ InPlaceInsertion: 6681
+ InPlaceSeletion: 5384
+ InPlaceHeap: 18
+
+data_array_size:100000
+ InPlaceInsertion: 6146
+ InPlaceSeletion: 5296
+ InPlaceHeap: 19
+
+It took 395s
